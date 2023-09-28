@@ -1,3 +1,11 @@
+| <h2>Research programme</h2> | <h2>Raziskovalni program</h2> |
+| --- | --- |
+| <h2>Information systems (P2-0057)</h2> | <h2>Informacijski sistemi (P2-0057)</h2> |
+| [Appendix E+F](https://github.com/RP-P2-0057/Proposal-2023/blob/main/Appendix_E_F_ENG_FINAL.pdf) | [Program dela raziskovalnega programa za obdobje od 1. 1. 2024 do 31. 12. 2027](https://github.com/RP-P2-0057/Proposal-2023/blob/main/PorociloSLO.pdf) |
+|  | [Vsebinsko poročilo za obdobje izvajanja raziskovalnega programa od 1. 1. 2018 do dneva oddaje prijave na](https://github.com/RP-P2-0057/Proposal-2023/blob/main/ProgramSLO.pdf) |
+
+
+
 ## Research programme
 # Information systems (P2-0057)
 
